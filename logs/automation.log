@@ -1,0 +1,42 @@
+2026-06-20 01:48:07 INFO  TC001_AccountRegistrationTest:21 -
+			*** Starting TC001_AccountRegistrationTest ***
+2026-06-20 01:48:07 INFO  TC001_AccountRegistrationTest:25 -
+			Click on my account
+2026-06-20 01:48:07 INFO  TC001_AccountRegistrationTest:27 -
+			Click on my Register
+2026-06-20 01:48:08 INFO  TC001_AccountRegistrationTest:32 -
+			Providing customer details
+2026-06-20 01:48:10 INFO  TC001_AccountRegistrationTest:45 -
+			Confirmed text message
+2026-06-20 01:48:10 INFO  TC001_AccountRegistrationTest:61 -
+			*** Finished TC001_AccountRegistrationTest ***
+2026-06-20 01:48:16 INFO  TC002_LoginTest:15 -
+			************* Starting TC_002_LoginTest ******
+2026-06-20 02:01:42 INFO  TC001_AccountRegistrationTest:21 -
+			*** Starting TC001_AccountRegistrationTest ***
+2026-06-20 02:01:42 INFO  TC001_AccountRegistrationTest:25 -
+			Click on my account
+2026-06-20 02:01:42 INFO  TC001_AccountRegistrationTest:27 -
+			Click on my Register
+2026-06-20 02:01:43 INFO  TC001_AccountRegistrationTest:32 -
+			Providing customer details
+2026-06-20 02:01:45 INFO  TC001_AccountRegistrationTest:45 -
+			Confirmed text message
+2026-06-20 02:01:45 INFO  TC001_AccountRegistrationTest:61 -
+			*** Finished TC001_AccountRegistrationTest ***
+2026-06-20 02:01:52 INFO  TC002_LoginTest:15 -
+			************* Starting TC_002_LoginTest ******
+2026-06-20 02:06:14 INFO  TC001_AccountRegistrationTest:21 -
+			*** Starting TC001_AccountRegistrationTest ***
+2026-06-20 02:06:14 INFO  TC001_AccountRegistrationTest:25 -
+			Click on my account
+2026-06-20 02:06:14 INFO  TC001_AccountRegistrationTest:27 -
+			Click on my Register
+2026-06-20 02:06:15 INFO  TC001_AccountRegistrationTest:32 -
+			Providing customer details
+2026-06-20 02:06:18 INFO  TC001_AccountRegistrationTest:45 -
+			Confirmed text message
+2026-06-20 02:06:18 INFO  TC001_AccountRegistrationTest:61 -
+			*** Finished TC001_AccountRegistrationTest ***
+2026-06-20 02:06:22 INFO  TC002_LoginTest:15 -
+			************* Starting TC_002_LoginTest ******
